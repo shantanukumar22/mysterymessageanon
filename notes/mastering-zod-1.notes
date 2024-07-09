@@ -1,0 +1,16 @@
+Folder Creating and structure:
+[src->app->models->user.ts or user.model.ts]
+
+
+
+
+Installation:
+- $ npm i mongoose
+- $ npm i zod
+
+
+
+Steps:
+create a mongoose model for the user and messages
+create a schemas Folder for the validation not modelling and then 
+install zod for writing the validation
