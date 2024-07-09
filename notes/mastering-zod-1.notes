@@ -14,3 +14,4 @@ Steps:
 create a mongoose model for the user and messages
 create a schemas Folder for the validation not modelling and then 
 install zod for writing the validation
+[lib->dbConnect.ts]
